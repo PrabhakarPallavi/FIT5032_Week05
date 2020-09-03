@@ -1,0 +1,9 @@
+﻿.input-group {
+    position: relative;
+    display: flex;
+    border-collapse: separate
+}
+.input-group.date .input-group-addon {
+    cursor: pointer;
+    width: auto;
+}
